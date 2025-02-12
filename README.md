@@ -1,4 +1,4 @@
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quidixanime&theme=tokyonight
+! [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quidixanime&theme=tokyonight
 
 ## My projects:
 
